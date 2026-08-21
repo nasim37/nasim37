@@ -8,9 +8,9 @@ I turn ambitious ideas into dependable digital products. My work spans **Flutter
 
 <div align="left">
  <strong>Contact Me</strong><br><br>
- <a href="https://github.com/nasim37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+ <a href="https://github.com/nasim37"><img width="120" height="38" src="https://github.com/user-attachments/assets/3b26ad96-6757-485a-ae13-6cb987c443c7" alt="GitHub"></a>
  <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img width="150" height="38" src="https://github.com/user-attachments/assets/b43e014e-4039-4ef6-887f-58c977f0113b" alt="LinkedIn"></a>
- <a href="mailto:eurokhan0@gmail.com"><img width="160" height="38" src="https://github.com/user-attachments/assets/2c7a2f44-c69a-48bd-8490-32219833f305" alt="Mail Gmail"></a>
+ <a href="mailto:eurokhan0@gmail.com"><img width="118" height="38" src="https://github.com/user-attachments/assets/b39fbf31-a57c-4f57-b132-b3f9c8b097ca" alt="Gmail"></a>
  <a href="https://wa.me/8801844904548"><img width="150" height="38" src="https://github.com/user-attachments/assets/9b64dfaa-1c7a-46a6-905b-c3c7897a2893" alt="WhatsApp"></a>
 </div>
 
