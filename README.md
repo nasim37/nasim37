@@ -48,10 +48,10 @@ These are general professional skills that complement my software development wo
 
 ## The Work Behind the Profile
 
-| Project | What it is | Engineering signal |
-|---|---|---|
-| **TravelMate** | A social travel companion built with Flutter | Mobile product thinking, real-time communication, media, payments, bookings, and shared expenses. |
-| **SonodChain** | A blockchain certificate verification platform | Full-stack architecture, institutional workflows, security, auditability, and tamper-evident verification. |
+| Project | Product identity | Built for | Engineering signal |
+|---|---|---|---|
+| ![TravelMate](https://img.shields.io/badge/TRAVELMATE-14B8A6?style=for-the-badge&logo=flutter&logoColor=white) | **TravelMate**<br>Flutter mobile product | Travel discovery, bookings, community, communication, and shared journeys. | **Mobile product engineering**<br>Real-time features, media, payments, location, and shared expenses. |
+| ![SonodChain](https://img.shields.io/badge/SONODCHAIN-8B5CF6?style=for-the-badge&logo=hyperledger&logoColor=white) | **SonodChain**<br>Certificate trust platform | Digital certificate generation, secure storage, print-ready issuance, and QR verification. | **Full-stack + blockchain engineering**<br>Institutional workflows, auditability, security, and verification. |
 
 ## 01 · TravelMate
 
@@ -141,18 +141,14 @@ I care about the decisions underneath the interface: how authentication boundari
 
 I am continuously deepening my practice in **mobile product development, full-stack engineering, cybersecurity, cloud deployment, and blockchain systems**. I learn by building complete products—from the first interface to the data model, from API boundaries to deployment decisions.
 
-## Signal & Activity
+## Build Signal
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasim37&theme=github_dark" height="180" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasim37&theme=github_dark" height="180" alt="Languages by repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasim37&theme=github_dark" height="180" alt="Most committed languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasim37&theme=github_dark" width="100%" alt="Contribution profile" />
-</p>
+> **From interface to infrastructure:** I enjoy turning an idea into a usable product, then strengthening the system behind it with clear data flow, secure boundaries, and reliable delivery.
 
 <p align="center">
   <strong>Building useful software, one thoughtful commit at a time.</strong>
 </p>
+
+---
+
+> **Profile content notice:** This is a curated professional overview. Project descriptions, visual assets, and written content are presented for portfolio purposes and should not be reproduced or redistributed without permission.
