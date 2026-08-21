@@ -6,13 +6,13 @@
 
 I turn ambitious ideas into dependable digital products. My work spans **Flutter mobile experiences**, **full-stack web platforms**, **secure backend systems**, and **blockchain-based verification**—with a focus on clear architecture, purposeful interfaces, and technology that solves real problems.
 
-<p align="left">
- <strong>Contact Me</strong>&nbsp;&nbsp;
- <a href="https://github.com/nasim37"><img src="https://cdn.simpleicons.org/github/181717" width="19" height="19" alt="GitHub" /></a>&nbsp;&nbsp;
- <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="19" height="19" alt="LinkedIn" /></a>&nbsp;&nbsp;
- <a href="mailto:eurokhan0@gmail.com"><img src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v8/192px.svg" width="19" height="19" alt="Gmail" /></a>&nbsp;&nbsp;
- <a href="https://wa.me/8801844904548"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="19" height="19" alt="WhatsApp" /></a>
-</p>
+<div align="left">
+  <strong>Contact Me</strong><br><br>
+  <a href="https://github.com/nasim37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:eurokhan0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/8801844904548"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</div>
 
 > **Two products. Two very different domains. One engineering mindset:** design the system, respect the user, and ship with intent.
 
