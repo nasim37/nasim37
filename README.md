@@ -42,7 +42,7 @@ TravelMate is a Flutter-based mobile application designed around the complete tr
 - Community features including posts, comments, saved posts, reports, follows, albums, friend requests, and notifications.
 - Direct and group chat with media sharing, stickers, voice recording, audio/video playback, and Agora calls.
 - Shared expense rooms with expense tracking, balances, settlements, and cost splitting.
-- Firebase Cloud Messaging, location permissions, geocoding, image tools, Stripe payments, and R2-backed media services.
+- Firebase Cloud Messaging, location permissions, geocoding, image tools, Stripe payments, and **Cloudflare R2 object storage** for media and file assets.
 
 **Stack**
 
@@ -52,6 +52,7 @@ TravelMate is a Flutter-based mobile application designed around the complete tr
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat-square&logo=agora&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Dio](https://img.shields.io/badge/Dio-0F172A?style=flat-square&logo=dart&logoColor=white)
 
 ## 02 · SonodChain
