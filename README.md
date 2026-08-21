@@ -9,9 +9,9 @@ I turn ambitious ideas into dependable digital products. My work spans **Flutter
 <div align="left">
  <strong>Contact Me</strong><br><br>
  <a href="https://github.com/nasim37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
- <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img width="258" height="38" src="https://github.com/user-attachments/assets/e56a77e1-fbfd-42a1-83fd-9b63a00ccb6b" alt="LinkedIn Profile"></a>
- <a href="mailto:eurokhan0@gmail.com"><img width="242" height="38" src="https://github.com/user-attachments/assets/cce70272-3ba8-4bdb-86d4-0e30d81a113f" alt="Mail Gmail"></a>
- <a href="https://wa.me/8801844904548"><img width="282" height="38" src="https://github.com/user-attachments/assets/1e611538-03ef-447d-bd2f-4795336f285c" alt="WhatsApp Contact Me"></a>
+ <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img width="150" height="38" src="https://github.com/user-attachments/assets/b43e014e-4039-4ef6-887f-58c977f0113b" alt="LinkedIn"></a>
+ <a href="mailto:eurokhan0@gmail.com"><img width="160" height="38" src="https://github.com/user-attachments/assets/2c7a2f44-c69a-48bd-8490-32219833f305" alt="Mail Gmail"></a>
+ <a href="https://wa.me/8801844904548"><img width="150" height="38" src="https://github.com/user-attachments/assets/9b64dfaa-1c7a-46a6-905b-c3c7897a2893" alt="WhatsApp"></a>
 </div>
 
 > **Two products. Two very different domains. One engineering mindset:** design the system, respect the user, and ship with intent.
