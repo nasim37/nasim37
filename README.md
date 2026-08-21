@@ -17,7 +17,32 @@ I turn ambitious ideas into dependable digital products. My work spans **Flutter
 
 ## Professional Foundations
 
-Alongside software development, I have a **six-month computer training foundation** and practical experience with **Microsoft Word and Microsoft Excel** for documentation, structured data organization, reports, and day-to-day digital productivity.
+Alongside software development, I have a **six-month computer training foundation** and practical workplace skills for documentation, structured data organization, reports, and day-to-day digital productivity.
+
+## Web Foundations
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## Additional Skills & Productivity
+
+These are general professional skills that complement my software development work and can be useful across company, office, and project environments.
+
+**Programming & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Office & Collaboration**
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google%20Slides-FBBC04?style=flat-square&logo=googleslides&logoColor=black)
 
 ---
 
@@ -53,7 +78,7 @@ TravelMate is a Flutter-based mobile application designed around the complete tr
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat-square&logo=agora&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Dio](https://img.shields.io/badge/Dio-0F172A?style=flat-square&logo=dart&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0F1729?style=flat-square&logo=dart&logoColor=white)
 
 ## 02 · SonodChain
 
@@ -85,11 +110,10 @@ SonodChain is a Hyperledger Fabric-based certificate lifecycle and verification 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
 
 ## Engineering Lens
 
