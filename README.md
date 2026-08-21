@@ -9,9 +9,9 @@ I turn ambitious ideas into dependable digital products. My work spans **Flutter
 <div align="left">
   <strong>Contact Me</strong><br><br>
   <a href="https://github.com/nasim37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:eurokhan0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://wa.me/8801844904548"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=202124" alt="LinkedIn"></a>
+  <a href="mailto:eurokhan0@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=202124" alt="Email"></a>
+  <a href="https://wa.me/8801844904548"><img src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=202124" alt="WhatsApp"></a>
 </div>
 
 > **Two products. Two very different domains. One engineering mindset:** design the system, respect the user, and ship with intent.
