@@ -119,12 +119,12 @@ SonodChain is a Hyperledger Fabric-based certificate lifecycle and verification 
 
 I care about the decisions underneath the interface: how authentication boundaries are enforced, how data moves through a system, how failures are handled, how personal information is protected, and how a product remains understandable as it grows.
 
-| I value | In practice |
+| Engineering dimension | How I approach it |
 |---|---|
-| **Architecture** | Feature-first code organization, typed boundaries, reusable components, and clear separation of concerns. |
-| **Security** | Least-privilege thinking, validation, protected routes, secure storage, auditability, and careful handling of sensitive data. |
-| **Product quality** | Interfaces that feel intentional, flows that make sense, and features designed around real user needs. |
-| **Reliability** | Explicit error handling, deployment awareness, environment separation, and honest verification of what has been tested. |
+| ![Architecture](https://img.shields.io/badge/01%20ARCHITECTURE-7C3AED?style=for-the-badge&logoColor=white) | **Feature-first structure, typed boundaries, reusable components, and clear separation of concerns.** |
+| ![Security](https://img.shields.io/badge/02%20SECURITY-DC2626?style=for-the-badge&logoColor=white) | **Validation, protected routes, secure storage, auditability, and careful handling of sensitive data.** |
+| ![Product quality](https://img.shields.io/badge/03%20PRODUCT%20QUALITY-059669?style=for-the-badge&logoColor=white) | **Intentional interfaces, sensible flows, and features designed around real user needs.** |
+| ![Reliability](https://img.shields.io/badge/04%20RELIABILITY-2563EB?style=for-the-badge&logoColor=white) | **Explicit error handling, deployment awareness, environment separation, and honest verification.** |
 
 ## Tools I Reach For
 
@@ -141,9 +141,16 @@ I care about the decisions underneath the interface: how authentication boundari
 
 I am continuously deepening my practice in **mobile product development, full-stack engineering, cybersecurity, cloud deployment, and blockchain systems**. I learn by building complete products—from the first interface to the data model, from API boundaries to deployment decisions.
 
+## Signal & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasim37&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Nasim's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasim37&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasim37&theme=github_dark" height="180" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasim37&theme=github_dark" height="180" alt="Languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasim37&theme=github_dark" height="180" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasim37&theme=github_dark" width="100%" alt="Contribution profile" />
 </p>
 
 <p align="center">
