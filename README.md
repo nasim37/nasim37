@@ -7,10 +7,11 @@
 I turn ambitious ideas into dependable digital products. My work spans **Flutter mobile experiences**, **full-stack web platforms**, **secure backend systems**, and **blockchain-based verification**—with a focus on clear architecture, purposeful interfaces, and technology that solves real problems.
 
 <p align="left">
-  <a href="https://github.com/nasim37"><img src="https://cdn.simpleicons.org/github/181717" width="28" height="28" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:eurokhan0@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://wa.me/8801844904548"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28" height="28" alt="WhatsApp" /></a>
+  <strong>Contact Me</strong>&nbsp;&nbsp;
+  <a href="https://github.com/nasim37"><img src="https://cdn.simpleicons.org/github/181717" width="19" height="19" alt="GitHub" /> <b>GitHub</b></a>&nbsp;&nbsp;
+  <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="19" height="19" alt="LinkedIn" /> <b>LinkedIn</b></a>&nbsp;&nbsp;
+  <a href="mailto:eurokhan0@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="19" height="19" alt="Email" /> <b>Email</b></a>&nbsp;&nbsp;
+  <a href="https://wa.me/8801844904548"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="19" height="19" alt="WhatsApp" /> <b>WhatsApp</b></a>
 </p>
 
 > **Two products. Two very different domains. One engineering mindset:** design the system, respect the user, and ship with intent.
@@ -33,6 +34,7 @@ These are general professional skills that complement my software development wo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Office & Collaboration**
