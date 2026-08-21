@@ -18,7 +18,7 @@ I turn ambitious ideas into dependable digital products. My work spans **Flutter
 
 ## Professional Foundations
 
-Alongside software development, I have a **six-month computer training foundation** and practical workplace skills for documentation, structured data organization, reports, and day-to-day digital productivity.
+Alongside software development, I have a **six-month advance computer training foundation** and practical workplace skills for documentation, structured data organization, reports, and day-to-day digital productivity.
 
 ## Web Foundations
 
