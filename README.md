@@ -7,11 +7,11 @@
 I turn ambitious ideas into dependable digital products. My work spans **Flutter mobile experiences**, **full-stack web platforms**, **secure backend systems**, and **blockchain-based verification**—with a focus on clear architecture, purposeful interfaces, and technology that solves real problems.
 
 <div align="left">
-  <strong>Contact Me</strong><br><br>
-  <a href="https://github.com/nasim37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=202124" alt="LinkedIn"></a>
-  <a href="mailto:eurokhan0@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=202124" alt="Email"></a>
-  <a href="https://wa.me/8801844904548"><img src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=202124" alt="WhatsApp"></a>
+ <strong>Contact Me</strong><br><br>
+ <a href="https://github.com/nasim37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+ <a href="https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337"><img width="258" height="38" src="https://github.com/user-attachments/assets/e56a77e1-fbfd-42a1-83fd-9b63a00ccb6b" alt="LinkedIn Profile"></a>
+ <a href="mailto:eurokhan0@gmail.com"><img width="242" height="38" src="https://github.com/user-attachments/assets/cce70272-3ba8-4bdb-86d4-0e30d81a113f" alt="Mail Gmail"></a>
+ <a href="https://wa.me/8801844904548"><img width="282" height="38" src="https://github.com/user-attachments/assets/1e611538-03ef-447d-bd2f-4795336f285c" alt="WhatsApp Contact Me"></a>
 </div>
 
 > **Two products. Two very different domains. One engineering mindset:** design the system, respect the user, and ship with intent.
