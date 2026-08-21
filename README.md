@@ -15,6 +15,10 @@ I turn ambitious ideas into dependable digital products. My work spans **Flutter
 
 > **Two products. Two very different domains. One engineering mindset:** design the system, respect the user, and ship with intent.
 
+## Professional Foundations
+
+Alongside software development, I have a **six-month computer training foundation** and practical experience with **Microsoft Word and Microsoft Excel** for documentation, structured data organization, reports, and day-to-day digital productivity.
+
 ---
 
 ## The Work Behind the Profile
@@ -54,14 +58,14 @@ TravelMate is a Flutter-based mobile application designed around the complete tr
 
 ### A trust layer for academic credentials
 
-SonodChain is a Hyperledger Fabric-based certificate verification platform built for institutions that need a more trustworthy way to generate, manage, and verify digital certificates. The system connects a public verification experience with institution operations, administrative controls, certificate generation, storage, payments, notifications, and audit trails.
+SonodChain is a Hyperledger Fabric-based certificate lifecycle and verification platform. It generates certificate records, stores them securely for institutional workflows, and produces a consistent print-ready certificate format for physical issuance. The digital record and the printed document preserve the same certificate identity and QR verification path; the print layout can also accommodate page color and security monogram elements where an institution requires them. The system connects public verification with institution operations, administrative controls, certificate generation, storage, payments, notifications, and audit trails.
 
 **What the system brings together**
 
 - Public QR and serial-based certificate verification with tamper detection.
 - Institution onboarding, approval workflows, dashboards, departments, shifts, batches, and secure vault access.
 - Administrative controls for institutions, certificates, templates, credits, revenue, and blockchain status.
-- Certificate generation through PDF and QR workflows with reusable templates, placeholders, CSV batch input, and photo handling.
+- Certificate generation through reusable print-ready templates, PDF and QR workflows, placeholders, CSV batch input, photo handling, and institution-specific visual security elements.
 - JWT and bcrypt authentication, Helmet, CORS, rate limiting, validation, upload controls, structured errors, and audit logging.
 - PostgreSQL and Prisma for application data, MinIO for object storage, Redis and Bull for queue-ready notifications, and Gotenberg for PDF generation.
 - Docker Compose, Nginx, PM2, GitHub Actions, Ubuntu deployment, Let’s Encrypt SSL, email notifications, and Uddoktapay payments.
@@ -80,10 +84,11 @@ SonodChain is a Hyperledger Fabric-based certificate verification platform built
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## Engineering Lens
 
